@@ -13,7 +13,7 @@ public class Selenium_SearchProduct {
     public static void main(String[] args) throws InterruptedException {
         // TODO Auto-generated method stub
         System.setProperty("webdriver.chrome.driver",
-                "C:\\Users\\madhu\\Downloads\\chromedriver_win32\\chromedriver.exe");
+                "C:\\Users\\Unkno\\Downloads\\chromedriver_win32\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
 
         driver.manage().window().maximize();
