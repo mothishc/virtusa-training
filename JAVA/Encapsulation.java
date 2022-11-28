@@ -45,8 +45,8 @@ public class TestEncapsulation {
         Encapsulation acc = new Encapsulation();
         // setting values through setter methods
         acc.setbank_account_number(999999999);
-        acc.setfull_Name("Madhusuthanan G");
-        acc.setemail_id("madhusudhanan0001@gmail.com");
+        acc.setfull_Name("Mothish C");
+        acc.setemail_id("mothishckarur@gmail.com");
         acc.setAmount(6900000);
         // getting values through getter methods
         System.out.println(acc.getbank_account_number() + " " + acc.getfull_Name() + " " + acc.getemail_id() + " "
