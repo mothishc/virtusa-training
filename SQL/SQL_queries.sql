@@ -7,7 +7,7 @@ CREATE TABLE Students (
     Country varchar(255)
 );
 INSERT INTO Persons ( Regno, LastName, FirstName, Address, City, Country)
-VALUES ('101', 'B', 'Madhusuthanan G', 'max Street', 'Marshall Streeet', 'USA');
+VALUES ('101', 'B', 'Mothish', 'max Street', 'Marshall Streeet', 'USA');
 INSERT INTO Persons ( Regno, LastName, FirstName, Address, City, Country)
 VALUES ('102', 'R', 'Marshall', 'Max street', 'New York', 'USA');
 INSERT INTO Persons ( Regno, LastName, FirstName, Address, City, Country)
