@@ -9,7 +9,7 @@ public class Selenium_OpenUrl {
 
         // System Property for Chrome Driver
         System.setProperty("webdriver.chrome.driver",
-                "C:\\Users\\madhu\\Downloads\\chromedriver_win32\\chromedriver.exe");
+                "C:\\Users\\Unkno\\Downloads\\chromedriver_win32\\chromedriver.exe");
 
         // Instantiate a ChromeDriver class.
         WebDriver driver = new ChromeDriver();
